@@ -31,6 +31,6 @@
 
 [![@pubu00's Holopin board](https://holopin.me/pubu00)](https://holopin.io/@pubu00)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chmx00&show_icons=true&locale=en" alt="chmx00" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chmx00&show_icons=true&locale=en" alt="chmx00" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chmx00&" alt="chmx00" /></p>
