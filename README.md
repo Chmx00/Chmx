@@ -1,6 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frare-gallery.com%2F569235-coder.html&psig=AOvVaw3Qg--jeClyTFgDwLKIHser&ust=1669436958627000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjag7m_yPsCFQAAAAAdAAAAABAH](https://rare-gallery.com/uploads/posts/569235-coder.jpg)](https://rare-gallery.com/thumbs/569235-coder.jpg) ](https://wallpaperforu.com/wp-content/uploads/2021/09/Coding-Wallpapers8.jpg" width="95%"<br>
 <h1 align="center">Hi 👋, I'm Pubuduni Mahagedara 🌐📌 from Kandy,Srilanka!</h1>
-<h3 align="center">Undergraduate🎓 in NSBM Green University❤🍃</h3>
+<h3 align="center">Undergraduate🎓 in NSBM Green University❤🍃</h3><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chmx00&label=Profile%20views&color=0e75b6&style=flat" alt="chmx00" /> </p>
 
