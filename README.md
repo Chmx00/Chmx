@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently student at **NSBM Green University Town**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **HTML,CSS,JAVA,PYTHON,SQL**
 
 - 😉 Pronouns: [she/her](she/her)
 
