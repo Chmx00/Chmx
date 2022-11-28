@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://dev.to/pubuduni mahagedara](https://dev.to/chmx00)](https://dev.to/chmx00)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pubuduni mahagedara" height="30" width="40" /></a>
+<a href="[[[https://dev.to/pubuduni mahagedara](https://dev.to/chmx00)](https://dev.to/chmx00)](https://dev.to/chmx00)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pubuduni mahagedara" height="30" width="40" /></a>
 <a href="https://twitter.com/chmx_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chmx_00" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pubuduni-mahagedara-610337218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pubuduni-mahagedara-610337218" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pubuduni.mahagedara.1?mibextid=ZbWKwL"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pubuduni mahagedara" height="30" width="40" /></a>
