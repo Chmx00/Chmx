@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pubuduni Mahagedara 🌐📌 from Kandy,Srilanka!</h1>
+<h1 align="center">Hi 👋, I'm Pubuduni Mahagedara 🌐📌 from Kandy,Sri Lanka!</h1>
 <h3 align="center">Undergraduate🎓 in NSBM Green University❤🍃</h3><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chmx00&label=Profile%20views&color=0e75b6&style=flat" alt="chmx00" /> </p>
