@@ -5,17 +5,54 @@
 
 <p align="left"> <a href="https://twitter.com/chmx_00" target="blank"><img src="https://img.shields.io/twitter/follow/chmx_00?logo=twitter&style=for-the-badge" alt="chmx_00" /></a> </p>
 
-- 🔭 I’m currently student at **NSBM Green University Town**
+# Hello, I'm [Your Name] 👋
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA,PYTHON,SQL**
+I'm a passionate [Your Profession] based in [Your Location]. I love to [Your Interests/Hobbies] and I'm always excited to learn and explore new technologies.
 
-- 😉 Pronouns: [she/her](she/her)
+## 🔧 Technologies & Tools
 
-- 💬 Ask me about **anything!**
+Here are some of the technologies and tools I work with:
 
-- 📫 Can reach me **pubudunimahagedara@gmail.com**
+- 💻 [Technology 1]
+- 💻 [Technology 2]
+- 💻 [Technology 3]
+- 💻 [Technology 4]
 
-- ⚡ Fun fact **I love web developing and learning new languages.!**<hr>
+## 🌱 Currently Learning
+
+I'm currently focused on learning:
+
+- 📚 [Topic 1]
+- 📚 [Topic 2]
+
+## 🚀 My Projects
+
+Here are some of the projects I'm proud of:
+
+1. [Project 1](link)
+2. [Project 2](link)
+3. [Project 3](link)
+
+Feel free to explore them and provide feedback!
+
+## 📫 How to Reach Me
+
+You can reach out to me on:
+
+- 📧 [Email](pubudunimahagedara@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Chmx00/)
+- 🐦 [Twitter](https://twitter.com/Chmx00)
+
+## ⚡ Fun Fact
+
+Here's a fun fact about me: [Fun Fact]
+
+Thanks for visiting my GitHub profile!
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chmx00&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chmx00&layout=compact)](https://github.com/Chmx00/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
