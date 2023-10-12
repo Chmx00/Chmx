@@ -33,7 +33,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chmx00&show_icons=true&locale=en&layout=compact" alt="chmx00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chmx00&show_icons=true&locale=en" alt="chmx00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chmx00&" alt="chmx00" /></p>
 
