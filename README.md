@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pubuduni Mahagedara 🌐📌 from Kandy,Srilanka!</h1>
 <h3 align="center">Undergraduate🎓 in NSBM Green University❤🍃</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chmx00&label=Profile%20views&color=0e75b6&style=flat" alt="chmx00" /> </p>
-<p align="left"> <a href="https://twitter.com/chmx_00" target="blank"><img src="https://img.shields.io/twitter/follow/chmx_00?logo=twitter&style=for-the-badge" alt="chmx_00" /></a> </p>
+
 
 - 🔭 I’m currently student at **NSBM Green University Town**
 
